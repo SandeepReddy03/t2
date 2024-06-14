@@ -23,6 +23,7 @@ function ProductDetails() {
 
   return (
     <div class="product">
+    <h1>Product Details</h1>
       <h1>{product.title}</h1>
       <p>{product.description}</p>
     </div>
